@@ -1,0 +1,68 @@
+# Launch     Launch Date (UTC)    COSPAR               PL Name                        Orig PL Name              SATCAT   LV Type                LV S/N          Site                             Suc  Ref
+#            #                    #                    #                              #                         #        #                      #               #                                #    #
+1960-F01     1960 Feb  4 1851:45        1960-F01       Discoverer 9                   CORONA C-6                F00083   Thor Agena A           218/FTV 1052    V        75-3-4                  F    NRO3E24
+                                        1960-F01       SRV 113                        SRV                       F00085
+                                        1960-F01       TOD-1                          Transit-On-Discoverer     F00086
+1960-F02     1960 Feb 19 2015:14        1960-F02       Discoverer 10                  CORONA C-7                F00088   Thor Agena A           223/FTV 1054    V        75-3-5                  F    NRO3E24
+                                        1960-F02       SRV 110                        SRV                       F00090
+                                        1960-F02       TOD-2                          Transit-On-Discoverer     F00091
+1960-F03     1960 Feb 26 1725:30        1960-F03       Midas 1                        Midas ETS-I F1            F00093   Atlas Agena A          29D             CC       LC14                    F    WS117L-571
+1960 ALP     1960 Mar 11 1300:07        1960 ALP 1     Pioneer V                      P-2                       S00027   Thor Able IV           219             CC       LC17A                   S    NASA-PR60-145
+1960-F04     1960 Mar 23 1335:11        1960-F04       NASA S-46                      NASA S-46                 F00096   Juno II                AM-19C          CC       LC26B                   F    ABMA
+1960 BET     1960 Apr  1 1140:09        1960 BET 2     Tiros 1                        A-1                       S00029   Thor Able II           148             CC       LC17A                   S    NASA-TR-R131
+1960 GAM     1960 Apr 13 1202:36        1960 GAM 2     Transit 1B                     Transit 1B                S00031   Thor Ablestar          257/AB002       CC       LC17B                   S    RAE/PSC
+                                        1960 GAM 3     Dummy subsatellite             -                         S00033
+1960-U01     1960 Apr 15 1506:45        1960-U01       [Luna-4]                       E-3 No. 1                 A00045   Vostok-L 8K72          L1-9            NIIP-5   LC1                     F    NezavB
+1960 DEL     1960 Apr 15 2030:37        1960 DEL       Discoverer 11                  CORONA C-8                S00032   Thor Agena A           234/FTV 1055    V        75-3-5                  S    NRO3E24
+                                        1960 DEL       TOD-3                          Transit-On-Discoverer     A00047
+                                        1960 DEL       SRV 103                        SRV                       A00049
+1960-F06     1960 Apr 16 1607:41        1960-F06       [Luna-4]                       E-3 No. 2                 F00098   Vostok-L 8K72          L1-9A           NIIP-5   LC1                     F    NezavB
+1960-F07     1960 May 13 0916:05        1960-F07       Echo                           A-10 Echo                 F00101   Thor Delta             144/D1          CC       LC17A                   F    TR-1022
+1960 EPS     1960 May 15 0000:05        1960 EPS 3     Korabl'-Sputnik                Vostok-1P                 S00036   Vostok 8K72            L1-11           NIIP-5   LC1                     S    VSA074
+1960 ZET     1960 May 24 1736:46        1960 ZET 1     Midas 2                        Midas ETS-I F2            S00043   Atlas Agena A          45D             CC       LC14                    S    RAE/PSC
+1960 ETA     1960 Jun 22 0554           1960 ETA 1     Transit 2A                     Transit 2A                S00045   Thor Ablestar          281/AB003       CC       LC17B                   S    SpaceWorld6111-33
+                                        1960 ETA 2     GREB                           GRAB SV2                  S00046
+1960-F08     1960 Jun 29 2200:44        1960-F08       Discoverer 12                  CORONA Diagnostic 1       F00104   Thor Agena A           160/FTV 1053    V        75-3-4                  F    NRO3E24
+                                        1960-F08       SRV (GRD)                      SRV                       F00106
+1960-F09     1960 Jul 28 0931           1960-F09       [Korabl'-Sputnik]              Vostok-1 No. 1            F00108   Vostok 8K72            L1-10           NIIP-5   LC1                     F    NezavB
+1960 THE     1960 Aug 10 2037:54        1960 THE       Discoverer 13                  CORONA Diagnostic 2       S00048   Thor Agena A           231/FTV 1057    V        75-3-5                  S    NRO3E24
+                                        1960 THE       SRV (GRD)                      SRV                       A00053
+                                        1960 THE       SOCTOP 1                       AFTRACK 1 (SOCTOP)        A08349
+1960 IOT     1960 Aug 12 0939:43        1960 IOT 1     Echo 1                         A-11                      S00049   Thor Delta             270/D2          CC       LC17A                   S    TR-1022
+1960 KAP     1960 Aug 18 1957:08        1960 KAP       Discoverer 14                  CORONA C-9                S00054   Thor Agena A           237/FTV 1056    V        75-3-4                  S    NRO3E24
+                                        1960 KAP       TOD-4                          Transit-On-Discoverer     A00055
+                                        1960 KAP       SRV 101                        SRV                       A00057
+1960-F10     1960 Aug 18 1958           1960-F10       Courier 1A                     Courier 1A                F00111   Thor Ablestar          262/AB004       CC       LC17B                   F    Wire
+1960 LAM     1960 Aug 19 0844:06        1960 LAM 1     Korabl'-Sputnik-2              Vostok-1 No. 2            S00055   Vostok 8K72            L1-12           NIIP-5   LC1                     S    NezavB
+1960 MU      1960 Sep 13 2213:39        1960 MU        Discoverer 15                  CORONA C-10               S00057   Thor Agena A           246/FTV 1058    V        75-3-5                  S    VCR
+                                        1960 MU        Discoverer Optical Beacon      SAO Optical Tracking      A00060
+                                        1960 MU        SRV 106                        SRV                       A00062
+                                        1960 MU        SOCTOP 2                       AFTRACK 2 (SOCTOP)        A08350
+1960-U02     1960 Sep 21 1301:53        1960-U02       Blue Scout D-1                 HETS                      A00063   Blue Scout Jr          D-1             CC       LC18A                   S    Waldron
+1960-F11     1960 Sep 25 1513:17        1960-F11       P-30 (Able VA)                 Able VA                   F00113   Atlas Able             80D             CC       LC12                    F    KHR-1
+1960-U03     1960 Oct  4 1523           1960-U03       ST-2                           ST-2                      A00065   Scout X-1              ST-2            WI       LA3                     S    WDCRF
+1960 NU      1960 Oct  4 1750           1960 NU 1      Courier 1B                     Courier 1B                S00058   Thor Ablestar          293/AB005       CC       LC17B                   S    MR601010-40
+1960-F12     1960 Oct 10 1427:49        1960-F12       [AMS Mars]                     1M No. 1                  F00117   Molniya 8K78           L1-4M           NIIP-5   LC1                     F    KIAM
+1960-F13     1960 Oct 11 2033:28        1960-F13       Samos 1                        SAMOS E-1 No. 1           F00119   Atlas Agena A          57D             PA       LC1-1                   F    WS117L-571
+                                        1960-F13       Samos 1 F-1                    SAMOS F-1 No. 1           F01410
+1960-F14     1960 Oct 14 1351:03        1960-F14       [AMS Mars]                     1M No. 2                  F00123   Molniya 8K78           L1-5M           NIIP-5   LC1                     F    KIAM
+1960-F15     1960 Oct 26 2026:09        1960-F15       Discoverer 16                  CORONA C'-1               F00125   Thor Agena B           253/FTV 1061    V        75-3-4                  F    VCR
+                                        1960-F15       SRV 506                        SRV                       F00127
+                                        1960-F15       TOD-5                          Transit-On-Discoverer     F00128
+                                        1960-F15       SOCTOP 3                       AFTRACK 3 (SOCTOP)        F01461
+1960 XI      1960 Nov  3 0523:10        1960 XI 1      Explorer 8                     NASA S-30                 S00060   Juno II                AM-19D          CC       LC26B                   S    ABMA
+1960 OMI     1960 Nov 12 2042:32        1960 OMI       Discoverer 17                  CORONA C'-2               S00061   Thor Agena B           297/FTV 1062    V        75-3-5                  S    VCR
+                                        1960 OMI       TOD-6                          Transit-On-Discoverer     A00068
+                                        1960 OMI       SRV 507                        SRV                       A00070
+                                        1960 OMI       SOCTOP 4                       AFTRACK 4 (SOCTOP)        A08351
+1960 PI      1960 Nov 23 1113:03        1960 PI 1      Tiros 2                        NASA A-2                  S00063   Thor Delta             245/D3          CC       LC17A                   S    TR-1022
+1960-F16     1960 Nov 30 1950           1960-F16       Transit 3A                     Transit 3A                F00132   Thor Ablestar          283/AB006       CC       LC17B                   F    AP
+                                        1960-F16       SR 2                           GRAB SV1                  F00133
+1960 RHO     1960 Dec  1 0730:04        1960 RHO 1     Korabl'-Sputnik-3              Vostok-1 No. 3            S00065   Vostok 8K72            L1-13           NIIP-5   LC1                     S    NezavB
+1960-F17     1960 Dec  4 2114           1960-F17       NASA S-56                      NASA S-56                 F00136   Scout X-1              ST-3            WI       LA3                     F    Wire
+1960 SIG     1960 Dec  7 2020:58        1960 SIG       Discoverer 18                  CORONA C'-3               S00067   Thor Agena B           296/FTV 1103    V        75-3-4                  S    VCR
+                                        1960 SIG       TOD-7                          Transit-On-Discoverer     A00073
+                                        1960 SIG       SRV 508                        SRV                       A00075
+1960-F18     1960 Dec 15 0910           1960-F18       P-31                           Able VB                   F00138   Atlas Able             91D             CC       LC12                    F    KHR-1
+1960 TAU     1960 Dec 20 2032           1960 TAU       Discoverer 19                  CORONA RM-1               S00068   Thor Agena B           258/FTV 1101    V        75-3-5                  S    VCR
+1960-F19     1960 Dec 22 0745:19        1960-F19       [Korabl'-Sputnik]              Vostok-1 No. 4            F00140   Vostok 8K72K           L1-13A          NIIP-5   LC1                     F    NezavB
